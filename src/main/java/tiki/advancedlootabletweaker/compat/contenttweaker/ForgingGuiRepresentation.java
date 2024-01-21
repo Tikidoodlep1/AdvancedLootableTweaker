@@ -20,7 +20,7 @@ import tiki.advancedlootableweapons.compat.crafttweaker.CrTForgingGuiRepresentat
 import tiki.advancedlootableweapons.compat.crafttweaker.ForgingGuiButtonRepresentation;
 import tiki.advancedlootableweapons.compat.crafttweaker.ZenDynamicAlwResources;
 
-@ZenClass("mods.advancedlootableweapons.ForgingGuiRepresentation")
+@ZenClass("mods.advancedlootabletweaker.ForgingGuiRepresentation")
 @ZenRegister
 public class ForgingGuiRepresentation {
 

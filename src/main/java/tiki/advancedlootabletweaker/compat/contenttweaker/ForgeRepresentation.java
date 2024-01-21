@@ -16,7 +16,7 @@ import tiki.advancedlootabletweaker.blocks.BlockForgeContent;
 import tiki.advancedlootabletweaker.blocks.BlockForgeFuelContent;
 import tiki.advancedlootableweapons.Alw;
 
-@ZenClass("mods.advancedlootableweapons.ForgeRepresentation")
+@ZenClass("mods.advancedlootabletweaker.ForgeRepresentation")
 @ZenRegister
 public class ForgeRepresentation extends BlockRepresentation {
 
